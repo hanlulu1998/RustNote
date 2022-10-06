@@ -1,0 +1,2 @@
+# RustNote
+Something about Rust
